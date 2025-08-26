@@ -44,7 +44,7 @@
 
 ## 🌐 Connect with Me  
 <p align="center">
-<a href="[https://linkedin.com/in/vishvajitsinh-chudasama](https://www.linkedin.com/in/vishvajitsinh-chudasama)"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+<a href="https://www.linkedin.com/in/vishvajitsinh-chudasama"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
 <a href="mailto:vishwjitsinhchudasama@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 </p>
 
