@@ -20,7 +20,7 @@
 
 ## 🛠️ Skills & Tools  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,html,css,javascript,firebase,mysql,git,github,opencv,vscode" />
+<img src="https://skillicons.dev/icons?i=python,django,html,css,javascript,firebase,mysql,git,github,vscode" />
 </p>
 
 ---
